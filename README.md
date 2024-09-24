@@ -23,15 +23,19 @@
 ## Installation
 To run this project, ensure you have Python and Pygame installed on your system. To set it up, follow these steps:
 
-1. Clone the repository:
+1. Install Pygame using pip:
+   ```bash
+   pip install pygame
+
+2. Clone the repository:
    ```bash
    https://github.com/Hamadabcn/black_jack.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    ```bash
    cd black_jack
 
-3. Run the application:
+4. Run the application:
    ```bash
    python main.py
 
