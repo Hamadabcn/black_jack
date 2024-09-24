@@ -46,7 +46,7 @@ To run this project, ensure you have Python and Pygame installed on your system.
    python main.py
 
 ## Usage
-- This game is a simplified version of Blackjack and does not involve any betting. Upon running the application, you will be dealt two cards and can choose to "Hit" for another card or "Stand" to hold your total. The dealer will play according to standard rules, and the winner will be determined at the end of the round.
+This game is a simplified version of Blackjack and does not involve any betting. Upon running the application, you will be dealt two cards and can choose to "Hit" for another card or "Stand" to hold your total. The dealer will play according to standard rules, and the winner will be determined at the end of the round.
 
 # Functionality
 ## Game Logic
@@ -56,10 +56,10 @@ The Game class implements the core functionalities of Blackjack:
 - Game Rules: Implements the rules for hitting, standing, and determining the winner.
 
 ## How It Works
-- When the application starts, it initializes a new game of Blackjack. Players are dealt two cards and can choose to "Hit" to receive another card or "Stand" to hold their total. The dealer will play according to standard Blackjack rules, drawing cards until reaching a specified total. The winner is determined based on the final hands, and players can continue playing multiple rounds without any betting involved.
+When the application starts, it initializes a new game of Blackjack. Players are dealt two cards and can choose to "Hit" to receive another card or "Stand" to hold their total. The dealer will play according to standard Blackjack rules, drawing cards until reaching a specified total. The winner is determined based on the final hands, and players can continue playing multiple rounds without any betting involved.
 
 ## License
-- This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contributing
-- If you would like to contribute to this project, please fork the repository and submit a pull request.
+If you would like to contribute to this project, please fork the repository and submit a pull request.
