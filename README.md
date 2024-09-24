@@ -25,7 +25,6 @@
 - Realistic card dealing and shuffling
 - Player vs. dealer gameplay
 - Score tracking for wins and losses
-- Customizable betting options
 
 ## Installation
 To run this project, ensure you have Python and Pygame installed on your system. To set it up, follow these steps:
