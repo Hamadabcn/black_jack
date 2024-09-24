@@ -47,3 +47,9 @@ The Game class implements the core functionalities of Blackjack:
 
 ## How It Works
 - When the application starts, it initializes a new game. Players can place their bets and are then dealt two cards. The player can choose to hit or stand, while the dealer follows specific rules for drawing cards. The results of each round are displayed, and players can continue to play multiple rounds.
+
+## License
+- This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contributing
+- If you would like to contribute to this project, please fork the repository and submit a pull request.
