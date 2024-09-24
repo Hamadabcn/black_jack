@@ -1,4 +1,4 @@
-# BlackJack Game
+# Welcome to the BlackJack Game
 
 ## Table of Contents
 - [Overview](#overview)
