@@ -57,7 +57,7 @@ The Game class implements the core functionalities of Blackjack:
 - Game Rules: Implements the rules for hitting, standing, and determining the winner.
 
 ## How It Works
-- When the application starts, it initializes a new game. Players can place their bets and are then dealt two cards. The player can choose to hit or stand, while the dealer follows specific rules for drawing cards. The results of each round are displayed, and players can continue to play multiple rounds.
+- When the application starts, it initializes a new game of Blackjack. Players are dealt two cards and can choose to "Hit" to receive another card or "Stand" to hold their total. The dealer will play according to standard Blackjack rules, drawing cards until reaching a specified total. The winner is determined based on the final hands, and players can continue playing multiple rounds without any betting involved.
 
 ## License
 - This project is licensed under the MIT License. See the LICENSE file for details.
