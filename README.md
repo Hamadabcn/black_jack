@@ -47,7 +47,7 @@ To run this project, ensure you have Python and Pygame installed on your system.
    python main.py
 
 ## Usage
-- Upon running the application, you will be prompted to place your bet and then dealt two cards. You can choose to "Hit" for another card or "Stand" to hold your total. The dealer will play according to standard rules, and the winner will be determined at the end of the round.
+- Upon running the application, you will be dealt two cards. You can choose to "Hit" for another card or "Stand" to hold your total. The dealer will play according to standard rules, and the winner will be determined at the end of the round.
 
 # Functionality
 ## Game Logic
