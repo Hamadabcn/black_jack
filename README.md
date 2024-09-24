@@ -27,4 +27,4 @@ To run this project, ensure you have Python installed on your system. You will a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Hamadabcn/Blackjack.git
+   https://github.com/Hamadabcn/black_jack.git
